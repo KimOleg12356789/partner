@@ -1,0 +1,978 @@
+@media (max-width: 1880px) {
+
+.header_text:after {
+    right: 11%;
+}
+
+.block_guarantees_students_students:after {
+    right: 7%;
+}
+
+}
+
+@media (max-width: 1680px) {
+
+.block_get_discount:after {
+    left: 18%;
+}
+
+.block_text_students:after {
+    left: 1%;
+}
+
+}
+
+@media (max-width: 1420px) {
+
+.block_purchase_bonuses .blocks .image {
+    max-width: 40%;
+}
+
+.block_purchase_bonuses .blocks .info {
+    max-width: 58%;
+}
+
+.block_get_discount:after {
+    left: 16%;
+}
+
+.block_text_students:after {
+    left: 20px;
+}
+
+}
+
+@media (max-width: 1380px) {
+
+.header .logo {
+    padding-top: 16px;
+}
+
+.header_text {
+    margin-top: 70px;
+}
+
+.header .menu ul li {
+    margin-right: 20px;
+}
+
+}
+
+@media (max-width: 1240px) {
+
+.price_list .block_1, .price_list .block_2, .price_list .block_3 {
+    max-width: 100%;
+}
+
+.block_advantages .blocks {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.block_purchase_bonuses .blocks .info {
+    padding-top: 90px;
+}
+
+.bonus_page .block_sertificate .info {
+    max-width: 60%;
+}
+
+.bonus_page .block_sertificate .image {
+    max-width: 36%;
+}
+
+.block_guarantees_students_students:after {
+    width: 431px;
+    height: 630px;
+    bottom: 0px;
+    top: auto;
+}
+
+.header_text:after {
+    right: 0%;
+}
+
+.block_get_discount:after {
+    left: 12%;
+}
+
+.block_text_students:after {
+    width: 305px;
+    height: 501px;
+}
+
+.block_advantages .blocks .block {
+    width: 50%;
+    padding-bottom: 112px;
+    margin-bottom: 40px;
+}
+
+.block_advantages .blocks .block .text {
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    max-width: 294px;
+    width: 100%;
+    position: relative;
+    margin-top: 25px;
+}
+
+.block_free_test .form .block_standart {
+    max-width: 350px;
+}
+
+.block_text_two .block_text_image .text, .block_text_two .block_text_image.block_text_image_2 .text {
+    max-width: 60%;
+}
+
+.block_text_two .block_text_image .image {
+    max-width: 35%;
+}
+
+.block_still_have_questions .blocks .block {
+    max-width: 48%;
+}
+
+.block_still_have_questions .blocks .block:after {
+    top: -36px;
+    right: 10px;
+    width: 123px;
+    height: 268px;
+}
+
+}
+
+@media (max-width: 1100px) {
+
+.block_still_have_questions h2 {
+    margin-bottom: 12px;
+}
+
+.block_prices .all_news_button_block .button.all_news_button:before {
+    right: 41px;
+}
+
+.block_reviews .all_news_button_block .button.all_news_button:before {
+    right: 44px;
+}
+
+.block_free_test .form_text .form .block_button:before {
+    right: 92px;
+}
+
+.block_free_test.block_free_test_home .form_text .form .block_button:before {
+    right: 36px;
+}
+
+.block_prices .image_bank {
+    display: none;
+}
+
+.block_prices .image_bank_mobile {
+    display: block;
+}
+
+.block_select_university .blocks .mobile_university {
+    display: none;
+}
+
+.button_block_university {
+    display: block;
+}
+
+.button_block_university .button {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bonus_header .text_head {
+    position: relative;
+    text-align: center;
+}
+
+.bonus_header .text_head h1 {
+    margin: auto;
+}
+
+.bonus_header .text_head .button {
+    margin: auto;
+    margin-top: 40px;
+    max-width: 320px;
+}
+
+.bonus_header {
+    padding-bottom: 0px;
+    text-align: center;
+    padding-top: 115px;
+}
+
+.bonus_page .block_1 .text {
+    max-width: 100%;
+    padding-top: 0px;
+}
+
+.bonus_page .block_1 .image {
+    max-width: 100%;
+}
+
+.bonus_page .block_2 {
+    flex-wrap: wrap-reverse;
+}
+
+.bonus_header .text_head:after {
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    position: relative;
+}
+
+.block_get_discount:after {
+    left: 5%;
+}
+
+.block_text_students:after {
+    display: none;
+}
+
+.block_text_students .text {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+}
+
+.block_text_students {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.block_select_university .blocks li:nth-child(4n+2) {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.block_select_university .blocks li:nth-child(4n+3) {
+    margin-right: 0px;
+}
+
+.block_select_university .blocks li:nth-child(3n+2) {
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.block_select_university .blocks li {
+    max-width: 31%;
+}
+
+.block_select_university .block {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block_advantages .blocks .block .text p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.block_advantages .blocks .block {
+    margin-bottom: 30px;
+    padding-bottom: 60px;
+}
+
+}
+
+@media (max-width: 990px) {
+
+.price_list .button_list {
+    display: block;
+}
+
+.price_list .list_search_block {
+    display: none;
+}
+
+.block_purchase_bonuses .blocks {
+    flex-wrap: wrap-reverse;
+}
+
+.block_purchase_bonuses .blocks .image {
+    max-width: 100%;
+    text-align: center;
+}
+
+.block_purchase_bonuses .blocks .info {
+    padding-top: 60px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.block_purchase_bonuses .blocks .info .title h2 {
+    text-align: center;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.block_purchase_bonuses .blocks .info .text {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.block_purchase_bonuses .blocks .info .button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block_free_test .end_text {
+    margin-top: 20px;
+    padding-left: 0px;
+}
+
+.block_free_test .form .block_standart {
+    max-width: 100%;
+}
+
+.header .message {
+    right: auto;
+    left: 148px;
+}
+
+.header_text:after {
+    top: auto;
+    bottom: 0px;
+}
+
+.header .menu {
+    display: none;
+}
+
+.menu_open {
+    display: block;
+}
+
+.menu_full .logo img {
+    max-width: 50px;
+}
+
+.header .menu_logo {
+    justify-content: space-between;
+}
+
+.block_guarantees_students_students:after {
+    display: none;
+}
+
+input[type="submit"], button, .button {
+    line-height: 20px;
+    font-size: 16px;
+}
+
+
+.block_still_have_questions .blocks .block:after {
+    display: none;
+}
+
+.block_still_have_questions .blocks .block .button_block {
+    display: none;
+}
+
+.block_still_have_questions .blocks .block .button_block_two {
+    display: block;
+}
+
+}
+
+
+@media (max-width: 940px) {
+
+.block_select_university .blocks li:nth-child(3n+2) {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.block_select_university .blocks li {
+    max-width: 30%;
+}
+
+}
+
+@media (max-width: 900px) {
+    
+.block_free_test.block_free_test_news_page {
+    margin-top: 69px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.block_free_test.block_free_test_news_page .form_text .text h2 {
+    line-height: 36px;
+    font-size: 20px;
+}
+
+.block_free_test.block_free_test_news_page .form {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.single_page .block_free_test .form .block_standart, .single_page .block_free_test .form .block_button {
+    max-width: 100%;
+}
+
+.block_free_test.block_free_test_news_page .form_text .form_mail {
+    margin-top: 16px;
+}
+
+.block_free_test.block_free_test_news_page .form_text .form .block_button input[type="submit"] {
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 59px;
+    max-width: 100%;
+}
+
+.bonus_page .block_sertificate .info {
+    max-width: 100%;
+}
+
+.bonus_page .block_sertificate .image {
+    display: none;
+}
+
+.bonus_header .text_head h1 {
+    font-size: 24px;
+    line-height: 36px;
+    max-width: 340px;
+    font-family: "Gilroy-bold";
+}
+
+.bonus_page table tr th {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.bonus_page table tr {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.bonus_page .reviews .title, .bonus_page .table_1 .title, .bonus_page .block_sertificate .info .title {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.block_text_two .block_text_image.block_text_image_2 {
+    margin-top: 0px;
+    flex-wrap: wrap;
+}
+
+.block_text_two .block_text_image {
+    flex-wrap: wrap-reverse;
+}
+   
+.block_text_two .block_text_image .text, .block_text_two .block_text_image.block_text_image_2 .text {
+    max-width: 100%;
+    padding-top: 0px;
+}
+
+.block_text_two .block_text_image .image, .block_text_two .block_text_image.block_text_image_2 .image {
+    text-align: center;
+    max-width: 100%;
+    margin-top: 0px;
+}
+
+.block_text_two .block_text_image.block_text_image_3 .image {
+    margin-top: 0px;
+}
+
+.block_get_discount {
+    padding-bottom: 60px;
+}
+
+.header_text {
+    padding-top: 40px;
+    padding-bottom: 0px;
+}
+
+.header_text:after {
+    margin-top: 30px;
+    width: 100%;
+    height: 510px;
+    position: relative;
+    background-position-x: center;
+    background-size: contain;
+}
+
+.block_stages_work .blocks .block {
+    max-width: 48%;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.block_get_discount:after {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-size: contain;
+    background-position-x: center;
+    top: 0px;
+    height: 206px;
+    margin-top: 12px;
+}
+
+.block_get_discount .form_text .form {
+    width: 100%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 32px;
+}
+
+.block_text_two .image_text .text_right {
+    width: 53%;
+}
+
+.bonus_header .text_head:after {
+    width: 100%;
+    height: 293px;
+    max-width: 320px;
+    margin-top: 40px;
+}
+
+.footer .footer_blocks {
+    display: block;
+    text-align: center;
+}
+
+.footer .logo_full, .footer .menu_scroll, .footer .menu_last, .footer .logo {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer .menu_scroll {
+    display: block;
+    margin-top: 20px;
+}
+
+.footer .footer_blocks .message {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer .logo {
+    max-width: 160px;
+}
+
+.block_guarantees_students_students .list .block .title {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.block_guarantees_students_students .list .block .text p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.block_guarantees_students_students h2 {
+    text-align: center;
+}
+
+}
+
+@media (max-width: 780px) {
+
+.bonus_page .reviews .block_prices {
+    padding-bottom: 0px;
+}
+
+.bonus_page .reviews {
+    padding-bottom: 20px;
+}
+
+.end_text {
+    position: relative;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    padding-left: 46px;
+}
+
+.end_text img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.block_purchase_bonuses .blocks .info .button:before {
+    right: 53px;
+}
+
+.block_stages_work .blocks .block .image {
+    height: 135px;
+}
+
+.block_text_students h1 {
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.block_advantages .blocks .block .count {
+    width: 120px;
+    height: 120px;
+    padding-top: 60px;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.form .block_button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block_free_test .form_text {
+    display: block;
+}
+
+.block_free_test .form_text .text {
+    width: 100%;
+    text-align: center;
+}
+
+.block_free_test .form_text .text h2 {
+    text-align: center;
+    line-height: 36px;
+    font-size: 24px;
+}
+
+.block_stages_work .blocks .block {
+    width: 49%;
+}
+
+.block_text_two .image_text {
+    display: block;
+}
+
+.block_text_two .image_text .text_right {
+    width: 100%;
+}
+
+.block_news .blocks .block {
+    max-width: 49%;
+}
+
+.block_advantages .blocks .block {
+    width: 49%;
+    margin-bottom: 30px;
+    padding-bottom: 0px;
+}
+
+.news_page h1 {
+    font-size: 54px;
+    line-height: 64px;
+}
+
+.block_guarantees_students_students .list .block {
+    padding-left: 64px;
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+.block_guarantees_students_students .list .block:before {
+    width: 52px;
+    height: 52px;
+    top: -4px;
+    left: 0px;
+}
+
+.block_guarantees_students_students {
+    padding-bottom: 50px;
+    min-height: auto;
+}
+
+.block_select_university .blocks li:nth-child(3n+2) {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.block_select_university .blocks li:nth-child(2n+2) {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.block_select_university .blocks li {
+    max-width: 48%;
+}
+
+.single_page .share_info .share {
+    display: none;
+}
+
+.single_page .share_info .info {
+    width: 100%;
+    max-width: 100%;
+}
+
+.single_page .tekstovye_bloki .block.style_3 strong, .single_page .tekstovye_bloki .block.style_4 strong {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.single_page .tekstovye_bloki .block.style_3 ul li, .single_page .tekstovye_bloki .block.style_4 ul li {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.single_page .tekstovye_bloki .block.style_3 ul li strong, .single_page .tekstovye_bloki .block.style_4 ul li strong {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.single_page .tekstovye_bloki .block.style_5 strong {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.single_page .tekstovye_bloki .block.style_5 blockquote p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.single_page .tekstovye_bloki .block.style_5 blockquote {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.single_page .end_text_news p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.block_prices .block {
+    width: 100%;
+    max-width: 74%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bonus_page .reviews .block_prices .block {
+    width: 100%;
+    max-width: 74%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.news_list ul li {
+    width: 100%;
+    max-width: 100%;
+}
+
+.news_list ul li:nth-child(3n + 2) {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.block_still_have_questions .blocks .block {
+    max-width: 100%;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: auto;
+}
+
+.block_still_have_questions .blocks .block .button_vk:before {
+    left: 15%;
+}
+
+.block_news .all_news_button_block .button.all_news_button:before {
+    right: 55px;
+}
+
+.modal-header .text {
+    max-width: 300px;
+    margin: auto;
+}
+
+.block_still_have_questions .blocks {
+    padding-top: 0px;
+}
+
+.block_still_have_questions .blocks .block .button_call:before {
+    left: 26%;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.footer .footer_text ul li {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.footer .footer_blocks .message {
+    display: none;
+}
+
+.footer .footer_blocks .social_mobile {
+    display: block;
+}
+
+.footer .footer_blocks .social_mobile .message {
+    display: flex;
+}
+
+.footer .footer_blocks .phone_mail {
+    text-align: center;
+}
+
+.footer .footer_blocks .phone_mail a:before {
+    left: 14px;
+}
+
+.paginations .nav-links a, .paginations .nav-links span {
+    width: 31px;
+    height: 31px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.paginations .nav-links ul li {
+    margin-right: 7px;
+}
+
+.bonus_page table tr th {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bonus_page table tr td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bonus_page .block_sertificate_full {
+    background-color: #F4F4F4;
+    margin-top: 89px;
+    padding-top: 86px;
+    padding-bottom: 60px;
+    margin-bottom: -90px;
+}
+
+.price_list .block_3 .end_text {
+    padding-left: 0px;
+}
+
+}
+
+@media (max-width: 660px) {
+
+.header_text .text_1 p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.header_text .text_2 {
+    position: relative;
+    margin-top: 20px;
+    padding-left: 10px;
+    margin-bottom: 41px;
+}
+
+.header_text .text_2 p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.single_page .tekstovye_bloki .block.style_2 strong {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.single_page .tekstovye_bloki .block.style_2 ul li {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 9px;
+}
+
+h1 {
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.single_page p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.standart_page h1 {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.block_stages_work .blocks .block {
+    max-width: 100%;
+}
+
+.block_news .blocks .block {
+    max-width: 100%;
+}
+
+.block_stages_work .blocks .block {
+    width: 100%;
+}
+
+.header_text:after {
+    height: 380px;
+}
+
+.footer .footer_blocks {
+    display: block;
+    text-align: center;
+}
+
+.news_page h1 {
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.block_select_university .blocks li:nth-child(2n+2) {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.block_select_university .blocks li {
+    max-width: 100%;
+}
+
+}
+
+@media (max-width: 420px) {
+
+.header_text:after {
+    height: 320px;
+}
+
+}
+
+@media(max-width: 575px){
+    .block_advantages .blocks .block {
+        width: 100%;
+    }
+}
+@media(max-width: 575px){
+    .about {
+        padding-bottom: 0;
+    }
+}

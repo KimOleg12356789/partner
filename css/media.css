@@ -1,0 +1,394 @@
+
+
+
+
+
+@media screen and (max-width: 1366px) {
+
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+    .whop_inner {
+        padding: 130px 30px 30px 30px;
+    }
+
+    .whop_inner2 {
+        padding: 130px 30px 30px 30px;
+    }
+
+    .whop_inner3 {
+        padding: 130px 30px 30px 30px;
+    }
+
+    .whop_inner4 {
+        padding: 130px 30px 30px 30px;
+    }
+
+    .partner_head_block h2 {
+   
+        margin: 0 0 30px 0;
+    }
+
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 860px) {
+    .whop_inner {
+        padding: 70px 30px 30px 30px;
+    }
+
+    .whop_inner2 {
+        padding: 70px 30px 30px 30px;
+    }
+
+    .whop_inner3 {
+        padding: 70px 30px 30px 30px;
+    }
+
+    .whop_inner4 {
+        padding: 70px 30px 30px 30px;
+    }
+
+    .whop_media2 span {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        display: block;
+        line-height: 130%;
+        padding: 5px 0 0 0;
+    }
+
+    .advant_block {
+        width: 50%;
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+
+    .howis_block {
+        padding: 0 15px;
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .partner_head_block h2 {
+        font-size: 32px;
+        text-transform: uppercase;
+        font-family: 'Gilroy-Bold';
+        line-height: 40px;
+        text-align: left;
+    }
+
+    .coin_media_img {
+        width: 32%;
+    }
+
+    .coin_media_title {
+        width: 68%;
+        font-size: 18px;
+        line-height: 30px;
+        color: #fff;
+    }
+
+    .cp_block {
+        width: 100%;
+        padding: 0 15px;
+        margin-bottom: 10px;
+    }
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+    .whop_block {
+        padding: 0 15px;
+        width: 100%;
+        margin: 0 0 30px 0;
+    }
+
+    .whop_inner {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 408px;
+    }
+
+    .whop_inner2 {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 408px;
+    }
+
+    .whop_inner3 {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 408px;
+    }
+
+    .whop_inner4 {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 408px;
+    }
+
+    .mailp_i_wrap {
+        width: 50%;
+        margin-bottom: 15px;
+        padding: 0 8px 0 8px;
+    }
+
+    .mailp_button {
+
+        height: 55.6px;
+    }
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+    .partner_head_block {
+        width: 100%;
+        padding: 0 0 0 0;
+    }
+
+    .partner_head_block2 {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .partner_head_block h2 {
+        font-size: 32px;
+        text-transform: uppercase;
+        font-family: 'Gilroy-Bold';
+        line-height: 40px;
+        text-align: left;
+        margin: 0 0 20px 0;
+    }
+
+    .mailp_main h2 {
+        font-size: 32px;
+        text-transform: uppercase;
+        font-family: 'Gilroy-Bold';
+        line-height: 48px;
+        text-align: left;
+        color: #4F4365;
+        margin: 0 0 10px 0;
+        text-align: center;
+    }
+
+    .mailp_i_wrap {
+        width: 100%;
+        margin-bottom: 15px;
+        padding: 0 8px 0 8px;
+    }
+
+    .mailp_main {
+        background: #FFFFFF;
+        border-radius: 20px;
+        padding: 38px 15px 50px 15px;
+    }
+
+    .mailp_main p {
+        text-align: center;
+        color: #4F4365;
+        font-size: 20px;
+        max-width: 620px;
+        line-height: 130%;
+        margin: 0 auto 22px auto;
+    }
+
+    .contact_partner h2 {
+        font-size: 32px;
+        text-transform: uppercase;
+        font-family: 'Gilroy-Bold';
+        line-height: 48px;
+        text-align: left;
+        color: #4F4365;
+        margin: 0 0 18px 0;
+    }
+
+    .contact_partner p {
+        color: #4F4365;
+        max-width: 745px;
+        font-size: 18px;
+        line-height: 130%;
+        margin: 0 0 30px 0;
+    }
+
+    .cp_block_w a {
+        font-size: 24px;
+        color: #4F4365;
+        display: block;
+        font-family: 'Gilroy-Bold';
+    }
+
+    .cp_block_w span {
+        display: block;
+        font-size: 18px;
+        color: #666666;
+    }
+
+    .p_dogovor {
+        font-size: 18px;
+        display: block;
+        text-decoration: underline;
+        padding: 10px 0 0 0;
+    }
+
+    .advant_block {
+        width: 100%;
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+
+    .howis_block {
+        padding: 0 15px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .coin_media {
+        display: block;
+    }
+
+    .coin_media_title {
+        width: 100%;
+        font-size: 18px;
+        line-height: 30px;
+        color: #fff;
+    }
+
+    .coin_media_img {
+        width: 40%;
+        margin-bottom: 10px;
+    }
+
+    .advantage h2 {
+        font-size: 32px;
+        text-transform: uppercase;
+        font-family: 'Gilroy-Bold';
+        line-height: 48px;
+        text-align: left;
+        color: #fff;
+        margin: 0 0 36px 0;
+    }
+
+    .whop_inner {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+    .whop_inner2 {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+    .whop_inner3 {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+    .whop_inner4 {
+        padding: 70px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+    .whop {
+        padding: 90px 0 60px 0;
+    }
+
+    .contact_partner {
+        padding: 80px 0 90px 0;
+        background: #F4F4F4;
+    }
+
+    .whop h2 {
+        text-align: left;
+        margin: 0 0 36px 0;
+        font-size: 32px;
+    }
+
+    .partner_head_btn {
+        max-width: 100%;
+    }
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+    .whop_inner {
+        padding: 60px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+    .whop_inner2 {
+        padding: 60px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+
+    .whop_inner3 {
+        padding: 60px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+    .whop_inner4 {
+        padding: 60px 30px 30px 30px;
+        background-size: contain;
+        height: 228px;
+    }
+
+    .whop_block {
+        padding: 0 15px;
+        width: 100%;
+        margin: 0 0 0px 0;
+    }
+
+    .whop_media2 span {
+        font-family: 'Gilroy-Regular';
+        font-size: 16px;
+        display: block;
+        line-height: 130%;
+        padding: 5px 0 0 0;
+    }
+
+    .whop_media {
+        height: 110px;
+        border-left: 1px solid #EC9939;
+        padding: 0 0 0 20px;
+        display: flex;
+        align-items: center;
+        font-size: 28px;
+        color: #FFFFFF;
+        line-height: 130%;
+        font-family: 'Gilroy-Bold';
+    }
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+}

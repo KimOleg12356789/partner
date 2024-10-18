@@ -1,0 +1,513 @@
+
+
+@font-face {
+  font-family: 'Gilroy-Regular';
+  src:url('../fonts/Gilroy-Regular.eot?-kwf309');
+  src:url('../fonts/Gilroy-Regular.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Gilroy-Regular.woff2?-kwf309') format('woff2'),
+    url('../fonts/Gilroy-Regular.ttf?-kwf309') format('truetype'),
+    url('../fonts/Gilroy-Regular.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}  
+
+
+@font-face {
+  font-family: 'Gilroy-Bold';
+  src:url('../fonts/Gilroy-Bold.eot?-kwf309');
+  src:url('../fonts/Gilroy-Bold.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Gilroy-Bold.woff2?-kwf309') format('woff2'),
+    url('../fonts/Gilroy-Bold.ttf?-kwf309') format('truetype'),
+    url('../fonts/Gilroy-Bold.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}  
+
+@font-face {
+  font-family: 'Gilroy-Semibold';
+  src:url('../fonts/Gilroy-Semibold.eot?-kwf309');
+  src:url('../fonts/Gilroy-Semibold.eot?#iefix-kwf309') format('embedded-opentype'),
+    url('../fonts/Gilroy-Semibold.woff2?-kwf309') format('woff2'),
+    url('../fonts/Gilroy-Semibold.ttf?-kwf309') format('truetype'),
+    url('../fonts/Gilroy-Semibold.svg?-kwf309#AA-Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}  
+
+* {
+  box-sizing: border-box;
+}
+
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: 'Gilroy-Regular';
+  font-size: 16px;
+}
+
+a {color: #fff;}
+a:hover {color: #fff;}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.flex {
+  display: flex;
+  position: relative;
+}
+
+.items_center {
+  align-items: center;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.end {
+  justify-content: flex-end;
+}
+
+.justify_center {
+  justify-content: center;
+}
+
+.flex_wrap {
+  flex-wrap: wrap;
+}
+
+.container {
+  max-width: 1185px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+
+button {
+  border:none;
+  background: none;
+  box-shadow: unset;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: unset;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.partner_head {
+  padding: 100px 0 100px 0;
+}
+
+
+.partner_head_wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.partner_head_block {
+    width: 60%;
+    padding: 0 0 0 0;
+}
+
+.partner_head_block h2 {
+    font-size: 45px;
+    text-transform: uppercase;
+    font-family: 'Gilroy-Bold';
+    line-height: 58px;
+    text-align: left;
+    margin: 30px 0 30px 0;
+}
+
+.partner_head_block h2 span {
+  color: #EC9939;
+}
+
+.partner_head_block2 {
+    width: 40%;
+}
+
+.main-banner__btn {
+  font-family: 'Gilroy-Semibold' !important;
+}
+
+.coin {
+  background: #4F4365;
+  padding: 50px 0 50px 0;
+}
+
+.coin_media {
+  display: flex;
+  align-items: center;
+}
+
+.coin_media_img {
+  width: 20%;
+}
+
+.coin_media_title {
+  width: 80%;
+  font-size: 22px;
+  line-height: 30px;
+  color: #fff;
+}
+
+.advantage {
+  padding: 88px 0 100px 0;
+  background: #EC9939;
+}
+
+.advantage h2 {
+  font-size: 45px;
+  text-transform: uppercase;
+  font-family: 'Gilroy-Bold';
+  line-height: 58px;
+  text-align: left;
+  color: #fff;
+  margin: 0 0 36px 0;
+}
+
+.advant_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.advant_block {
+  width: 25%;
+  padding: 0 15px;
+}
+
+.advant_inner {
+  background: #FFFFFF;
+  border-radius: 1.25rem;
+  padding: 30px 20px 30px 20px;
+  box-shadow: 0rem 0.25rem 1rem 0rem rgba(0, 0, 0, 0.05);
+}
+
+.a_img {
+  padding: 0 0 24px 0;
+}
+
+.a_title {
+  font-family: 'Gilroy-Bold';
+  font-size: 22px;
+  padding: 0 0 12px 0;
+  line-height: 130%;
+}
+
+.a_body {
+  color: #666666;
+}
+
+.contact_partner {
+  padding: 80px 0 100px 0;
+  background: #F4F4F4;
+}
+
+.contact_partner h2 {
+  font-size: 45px;
+  text-transform: uppercase;
+  font-family: 'Gilroy-Bold';
+  line-height: 58px;
+  text-align: left;
+  color: #4F4365;
+  margin: 0 0 18px 0;
+}
+
+.contact_partner p {
+  color: #4F4365;
+  max-width: 745px;
+  font-size: 30px;
+  line-height: 130%;
+  margin: 0 0 30px 0;
+}
+
+
+.cp_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.cp_block {
+  width: 50%;
+  padding: 0 15px;
+}
+
+.cp_inner {
+  border-radius: 20px;
+  padding: 30px 30px 30px 30px;
+  box-shadow: 0rem 0.25rem 1rem 0rem rgba(0, 0, 0, 0.05);
+}
+
+
+.cp_block_w {
+  background: url(../img/icon-mail.svg) 0 50% no-repeat;
+  padding: 0 0 0 46px;
+  
+}
+
+.cp_block_w span {
+  display: block;
+  font-size: 22px;
+  color: #666666;
+}
+
+.cp_block_w a {
+  font-size: 30px;
+  color: #4F4365;
+  display: block;
+  font-family: 'Gilroy-Bold';
+}
+
+.cp_block_w2 {
+  background: url(../img/icon-phone.svg) 0 50% no-repeat;
+}
+
+.p_dogovor {
+  font-size: 18px;
+  display: block;
+  text-decoration: underline;
+  padding: 20px 0 0 0;
+}
+
+.whop {
+  padding: 90px 0 80px 0;
+}
+
+.whop h2 {
+  text-align: left;
+  margin: 0 0 36px 0;
+  font-size: 45px;
+}
+
+.whop_wrap {
+  display: flex;
+  margin: 0 -15px;
+  flex-wrap: wrap;
+}
+
+.whop_block {
+  padding: 0 15px;
+  width: 50%;
+  margin: 0 0 30px 0;
+}
+
+.whop_inner {
+  width: 100%;
+  padding: 180px 30px 30px 30px;
+  background: url(../img/whop-img.png) 0 0 no-repeat;
+  background-size: contain;
+}
+
+.whop_inner2 {
+  width: 100%;
+  padding: 180px 30px 30px 30px;
+  background: url(../img/whop-img2.png) 0 0 no-repeat;
+  background-size: contain;
+}
+
+
+.whop_inner3 {
+  width: 100%;
+  padding: 180px 30px 30px 30px;
+  background: url(../img/whop-img3.png) 0 0 no-repeat;
+  background-size: contain;
+}
+
+
+.whop_inner4 {
+  width: 100%;
+  padding: 180px 30px 30px 30px;
+  background: url(../img/whop-img4.png) 0 0 no-repeat;
+  background-size: contain;
+}
+
+
+.whop_media {
+  height: 110px;
+  border-left: 1px solid #EC9939;
+  padding: 0 0 0 20px;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  color: #FFFFFF;
+  line-height: 130%;
+  font-family: 'Gilroy-Bold';
+}
+
+.whop_media2 {
+  height: 110px;
+  border-left: 1px solid #EC9939;
+  padding: 5px 0 0 20px;
+  font-size: 30px;
+  color: #FFFFFF;
+  line-height: 130%;
+  font-family: 'Gilroy-Bold';
+}
+
+.whop_media2 span {
+  font-family: 'Gilroy-Regular';
+  font-size: 22px;
+  display: block;
+  line-height: 130%;
+  padding: 5px 0 0 0;
+}
+
+
+.howis {
+  padding: 88px 0 100px 0;
+  background: #F4F4F4;
+}
+
+.howis h2 {
+  font-size: 45px;
+  text-transform: uppercase;
+  font-family: 'Gilroy-Bold';
+  line-height: 58px;
+  text-align: left;
+  color: #4F4365;
+  margin: 0 0 36px 0;
+}
+
+.howis_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.howis_block {
+  padding: 0 15px;
+  width: 25%;
+}
+
+.howis_inner {
+  padding: 30px 20px 23px 20px;
+  border-radius: 1.25rem;
+  box-shadow: 0rem 0.25rem 1rem 0rem rgba(0, 0, 0, 0.05);
+}
+
+.howis_media {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.howis_img {
+  padding: 0 30px 0 0;
+}
+
+.howis_title {
+  font-size: 22px;
+  color: #4F4365;
+  font-family: 'Gilroy-Bold';
+  line-height: 130%;
+  margin-bottom: 12px;
+}
+
+.howis_body {
+  color: #666666;
+}
+
+.mailp {
+  padding: 100px 0 100px 0;
+  background: #EC9939;
+}
+
+.mailp_main {
+  background: #FFFFFF;
+  border-radius: 20px;
+  padding: 38px 25px 50px 25px;
+}
+
+.mailp_main h2 {
+  font-size: 45px;
+  text-transform: uppercase;
+  font-family: 'Gilroy-Bold';
+  line-height: 58px;
+  text-align: left;
+  color: #4F4365;
+  margin: 0 0 10px 0;
+  text-align: center;
+}
+
+.mailp_main p {
+  text-align: center;
+  color: #4F4365;
+  font-size: 22px;
+  max-width: 620px;
+  line-height: 130%;
+  margin: 0 auto 22px auto;
+}
+
+.mailp_f {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mailp_i_wrap {
+  width: 25%;
+  padding: 0 10px 0 10px;
+}
+
+.mailp_i {
+  padding: 18px 17px 16px 43px;
+  border-radius: 5px;
+  border: 1px solid #E0E0E0;
+}
+
+.mailp_i::placeholder {
+  color: #666666;
+}
+
+.mailp_icon {
+  background:#F4F4F4 url(../img/name.svg) 15px 50% no-repeat;
+}
+
+.mailp_icon2 {
+  background:#F4F4F4 url(../img/mailp-phone.svg) 15px 50% no-repeat;
+}
+
+.mailp_icon3 {
+  background:#F4F4F4 url(../img/usernamce.svg) 15px 50% no-repeat;
+}
+
+.mailp_button {
+  max-width: 100% !important;
+}
+
+footer {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
